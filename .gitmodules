@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RSiteCatalyst"]
+	path = RSiteCatalyst
+	url = https://github.com/randyzwitch/rsitecatalyst
+	shallow = true
+	registered = true
